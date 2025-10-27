@@ -149,7 +149,7 @@ export default function App() {
               </div>
               <h3>Plain-English transaction breakdown</h3>
               <p>
-                No opcode soup. We translate System, SPL Token and popular
+                We translate System, SPL Token and popular
                 programs into clear actions: who sends what, to whom, and which
                 accounts are touched.
               </p>
@@ -175,7 +175,7 @@ export default function App() {
               </div>
               <h3>Dry-run the outcome</h3>
               <p>
-                Optional RPC simulation previews likely state changes and fees
+                Optional RPC simulation previews state changes and fees
                 so you can confirm the result—not just hope for it.
               </p>
             </article>
@@ -209,7 +209,7 @@ export default function App() {
 
       <section id="how" className="section section--darker">
         <div className="section-inner">
-          <h2>From link to clarity in 10 seconds</h2>
+          <h2>From blink to clarity in 10 seconds</h2>
           <p className="lead">Open. Inspect. Decide. That’s it.</p>
 
           <div className="steps">
